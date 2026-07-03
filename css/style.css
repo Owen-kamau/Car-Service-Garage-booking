@@ -154,7 +154,7 @@ h3 {
 	align-items: center;
 	background:
 		linear-gradient(110deg, rgba(9, 37, 62, 0.9), rgba(15, 76, 129, 0.7)),
-		url("https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1600&q=80") center/cover;
+		url("../images/hero.jpg") center/cover;
 }
 
 .hero::after {
@@ -262,7 +262,7 @@ h3 {
 .stats {
 	background:
 		linear-gradient(120deg, rgba(15, 76, 129, 0.95), rgba(19, 108, 176, 0.9)),
-		url("https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?auto=format&fit=crop&w=1400&q=80") center/cover;
+		url("../images/mechanics.jpg") center/cover;
 	color: var(--white);
 }
 
@@ -489,7 +489,7 @@ footer {
 	padding: 84px 0;
 	background:
 		linear-gradient(115deg, rgba(10, 44, 71, 0.92), rgba(15, 76, 129, 0.82)),
-		url("https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1400&q=80") center/cover;
+		url("../images/hero.jpg") center/cover;
 	color: var(--white);
 }
 
